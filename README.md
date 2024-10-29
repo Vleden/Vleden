@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Vleden
-- 👀 I’m interested in video game development
-- 🌱 I’m currently learning C#, Unity, C++
+- 🌱 I’m a CS student
 
 
 <!---
